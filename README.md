@@ -12,8 +12,8 @@ On installation, the **preflight** script will:
 
 On Installation, the **installer** will:
 
-1. It will put down sinc-reboot.zsh in */usr/local/bin/*
-2. It will then put down *edu.stonybrook.sinc.reboot.plist* in */private/tmp*.
+1. Put down sinc-reboot.zsh in */usr/local/bin/*
+2. Put down *edu.stonybrook.sinc.reboot.plist* in */private/tmp*.
 
 On installation the **postflight** script will:
 
